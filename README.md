@@ -1,4 +1,6 @@
-This repository includes code at the basis of the statistical analysis and figures part of: "Convergent brain circuits and neurotransmitter systems in disorders of consciousness: a systematic review and meta-analysis" [further details to be added shortly]. 
+This repository includes code at the basis of the statistical analysis and the figures part of: "Convergent brain circuits and neurotransmitter systems in disorders of consciousness: a systematic review and meta-analysis" [further details to be added shortly]. 
+
+The code at the basis of statistical analysis for [Neuromaps Toolbox](https://github.com/netneurolab/neuromaps), running on a high performance computing cluster, is stored in https://github.com/GIGA-Consciousness/neuromaps-cluster
 
 Source data used to generate the figures are available in the original article.
 
